@@ -1,6 +1,8 @@
 {
 	"author": "alcun",
 	"name": "fcc-learn-npm-package-json",
+	"description": "A web app study where we can learn about how people can make meaningful contributions to software projects ",
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
