@@ -2,7 +2,7 @@
 	"author": "alcun",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A web app study where we can learn about how people can make meaningful contributions to software projects ",
-	"keywords": [ "academic", "learning", "freecodecamp" ],
+	"keywords": [ "alcun", "academic", "learning", "freecodecamp" ],
 
 	"dependencies": {
 		"express": "^4.14.0"
