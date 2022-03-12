@@ -1,6 +1,7 @@
 {
 	"author": "alcun",
 	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
 	"description": "A web app study where we can learn about how people can make meaningful contributions to software projects ",
 	"keywords": [ "alcun", "academic", "learning", "freecodecamp" ],
 
